@@ -1,10 +1,10 @@
 # Baking-Recipes
-it helps you to know baking recipes ingredients and steps
+<h1>It helps you to know baking recipes ingredients and steps</h1>
 
-Best Practice Of:
-1- MVP pattern
-2- Retrofit Network Library
-3- Room Database
-4- Fragment (Tabbed View)
-5- ExoPlayer
-6- Material Design
+<h2>Best practice of:</h2>
+<br>1- MVP pattern
+<br>2- Retrofit Network Library
+<br>3- Room Database
+<br>4- Fragment (Tabbed View)
+<br>5- ExoPlayer
+<br>6- Material Design
