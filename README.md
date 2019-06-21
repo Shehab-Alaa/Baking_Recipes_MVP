@@ -8,6 +8,7 @@
 <br>4- Fragment (Tabbed View)
 <br>5- ExoPlayer
 <br>6- Material Design
+<br>7- Caching API Response
 
 ![Screenshot_2019-03-18-23-13-07-484_com example dell bakingapp](https://user-images.githubusercontent.com/39988066/54566454-90f1b000-49d9-11e9-9383-8e297ef0da38.png)
 
